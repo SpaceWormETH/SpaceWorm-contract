@@ -1,3 +1,7 @@
+---
+#### <img src="https://raw.githubusercontent.com/SpaceWormETH/.github/main/profile/SpaceWormJim-icon.png" width="12" height="12" /> [SpaceWorm](https://github.com/SpaceWormETH) | [API](https://github.com/SpaceWormETH/SpaceWorm-API) | [```Contract```](https://github.com/SpaceWormETH/SpaceWorm-contract)
+---
+
 # Space Worm Contract
 - [`SpaceWorm.sol`](https://github.com/SpaceWormETH/SpaceWorm-contract/blob/master/SpaceWorm.sol)
 
